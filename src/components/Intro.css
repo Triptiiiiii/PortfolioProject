@@ -1,0 +1,28 @@
+.intro1{
+    background-image: url("/src/assets/Bg1.jpg");
+    color:#7A2CAF;
+    padding-top: 30px;
+    background-size:contain;
+    background-position:top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100%;
+    height:100%;
+   
+}
+.intro2{
+    padding-left:40px;
+}
+
+.para4{
+    margin-top: -10px;
+}
+.button2{
+    width:10%;
+    height:10%;
+    border: 2px solid #7A2CAF;
+    font-weight: bolder;
+    background-color:#d8dcf7 ;
+    color: #7A2CAF;
+    font-weight: bolder;
+}
