@@ -1,6 +1,3 @@
-# PortfolioProject
-This is my Porfolio.
-
-##tripti1
-
-*text1*
+#text1
+*text2*
+*/text3/*
